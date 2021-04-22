@@ -1,2 +1,1 @@
-# My-favourite-team
-My favourite band
+# My-Favourite-Band
